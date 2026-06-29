@@ -20,7 +20,7 @@ Smart contract ini dibuat sebagai tugas pembelajaran untuk memahami konsep dasar
 7. Mencatat aktivitas menggunakan Event<br>
 <h1>Cara Menjalankan</h1><br>
 1. Buka Remix IDE.<br>
-2. Import file SmartLibrary.sol.<br>
+2. Import file SmartLibrary.sol atau code isi file dari SmartLibrary.sol.<br>
 3. Compile smart contract.<br>
 4. Deploy contract menggunakan Remix VM.<br>
 5. Tambahkan data buku melalui fungsi addBook().<br>
